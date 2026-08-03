@@ -1,0 +1,18 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 数据文件夹
+data/MNIST/raw
+*.zip
+*.gz
+
+# 模型权重
+*.pth
+
+
+# IDE配置（VSCode/PyCharm的本地设置）
+.vscode/
+.idea/
+
+#杂七杂八的测试脚本
